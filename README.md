@@ -3,8 +3,8 @@
 
 sys
 
-local-user admin
-password simple 123123
+local-user admin\
+password simple 123123\
 service-type http https
 authorization-attribute user-role network-admin
 authorization-attribute user-role network-operator
